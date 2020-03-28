@@ -1,0 +1,33 @@
+ first video
+ html=hyper text markup language
+<>=angle brackets;contains tag
+<br>=link for break=empty element
+
+second video
+whne starting a website, use <!DOCTYPE html> 
+end with </html>
+title goes into the head
+
+third video
+don't close <br> tags
+<!--=start of the html code for seconf paragraph-->
+test     &nbsp     test
+
+fourth video
+can add many rules to the selector
+h1, h2 can apply multiple headers
+put different sectors to each header
+
+fifth video
+border-bottom: 1px solid black;
+1px=1 pixel for that text
+get rid of bottom so there is a box surrounding the text
+
+sixth video
+html is based off of hierarchy
+after a hierarchy, you get an inheritance
+you can add font families (ex. font-family: helvetica;)
+
+
+
+
